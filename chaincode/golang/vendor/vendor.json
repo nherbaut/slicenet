@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ynJSWoF6v+3zMnh9R0QmmG6iGV8=",
+			"path": "github.com/pkg/errors",
+			"revision": "645ef00459ed84a119197bfb8d8205042c6df63d",
+			"revisionTime": "2016-09-29T01:48:01Z"
+		},
+		{
+			"checksumSHA1": "QpWY2ygzClg3Bw+GHjD7yXlcTxw=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "4c78c975fe7c825c6d1466c42be594d1d6f3aba6",
+			"revisionTime": "2017-01-25T14:37:19Z"
+		}
+	],
+	"rootPath": "github.com/slicenet/chaincode/golang"
+}
